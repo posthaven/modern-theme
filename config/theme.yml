@@ -1,0 +1,15 @@
+---
+name: Modern
+author: Posthaven
+url: https//posthaven.com/
+posts_per_page:
+  include_in_settings: false
+  default: 5
+settings:
+- id: background_color
+  label: Background Color
+  type: color
+- id: header_color
+  label: Header Color
+  default: "#333333"
+  type: color
