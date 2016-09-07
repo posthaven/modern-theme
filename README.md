@@ -1,5 +1,9 @@
 # The Posthaven Modern Theme
 
+## Sceenshot
+
+![Screenshot](/assets/screenshot.png?raw=true)
+
 ## Theme Building Resources
 
 * [Posthaven theme documentation](http://theme-docs.posthaven.com/)
