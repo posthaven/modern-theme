@@ -850,6 +850,9 @@ input[type='submit']:active {
   position: relative;
   margin-top: 20px; }
 
+.main-content {
+  min-height: 300px; }
+
 /*********************************************************
 *  Navigation
 *********************************************************/

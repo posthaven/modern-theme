@@ -76,7 +76,9 @@
           </section>
         {% endif %}
 
-        {{ content_for_layout }}
+        <div class='main-content'>
+          {{ content_for_layout }}
+        </div>
 
         {% include 'footer' %}
       </div>

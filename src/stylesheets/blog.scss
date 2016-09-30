@@ -223,7 +223,13 @@ $logoWidth: 100px;
   h2 { margin: 2px 0px; color: #666666; font-size: 18px;}
 
 }
-#main_container { position: relative; margin-top: 20px; }
+#main_container {
+  position: relative; margin-top: 20px;
+}
+
+.main-content {
+  min-height: 300px;
+}
 
 /*********************************************************
 *  Navigation
