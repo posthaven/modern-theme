@@ -982,7 +982,8 @@ section.subhead {
   background-color: #eee;
   border-top: 1px solid #ddd; }
   .subscribe-footer .subscribe-wrapper {
-    width: 500px; }
+    width: 500px;
+    max-width: 100%; }
     .subscribe-footer .subscribe-wrapper span {
       display: block;
       color: #999; }
