@@ -3,7 +3,7 @@ name: Modern
 author: Posthaven
 url: https//posthaven.com/
 posts_per_page:
-  include_in_settings: false
+  include_in_settings: true
   default: 5
 settings:
 - id: background_color
