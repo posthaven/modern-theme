@@ -1,4 +1,11 @@
 {% if post %}
+
+  {% if post.post_image_or_first_image %}
+    <figure>
+      <img src="{{ post.post_image.large.url }}" />
+    </figure>
+  {% endif %}
+
   <header>
     {% if post.private? %}
       <div class="right private-indicator">
